@@ -1,8 +1,8 @@
 # Site Settings
 lang: en
-title: Sina Khajeh Pour
+title: "Sina Khajeh Pour"
 tagline: Bulma Clean Theme
-email: sinakhajehpour@u.boisestate.com
+email: "sinakhajehpour@u.boisestate.com"
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
 baseurl: "/bulma-clean-theme"
